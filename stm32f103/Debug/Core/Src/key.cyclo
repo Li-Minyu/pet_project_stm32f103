@@ -1,0 +1,5 @@
+../Core/Src/key.c:14:6:HAL_GPIO_EXTI_Callback	10
+../Core/Src/key.c:197:6:display_hour	2
+../Core/Src/key.c:211:6:display_min	2
+../Core/Src/key.c:225:6:display_sec	2
+../Core/Src/key.c:240:6:display	4

@@ -1,0 +1,1 @@
+stm32f103/lcd_st7789.o: ..\LCD_ST7789\LCD_ST7789.c

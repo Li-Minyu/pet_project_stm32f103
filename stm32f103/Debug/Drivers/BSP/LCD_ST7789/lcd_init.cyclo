@@ -1,0 +1,6 @@
+../Drivers/BSP/LCD_ST7789/lcd_init.c:44:6:LCD_Writ_Bus	1
+../Drivers/BSP/LCD_ST7789/lcd_init.c:79:6:LCD_WR_DATA8	1
+../Drivers/BSP/LCD_ST7789/lcd_init.c:90:6:LCD_WR_DATA	1
+../Drivers/BSP/LCD_ST7789/lcd_init.c:102:6:LCD_WR_REG	1
+../Drivers/BSP/LCD_ST7789/lcd_init.c:116:6:LCD_Address_Set	1
+../Drivers/BSP/LCD_ST7789/lcd_init.c:159:6:LCD_Init	1

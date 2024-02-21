@@ -1,0 +1,16 @@
+../Drivers/BSP/LCD_ST7789/lcd.c:14:6:LCD_Fill	3
+../Drivers/BSP/LCD_ST7789/lcd.c:33:6:LCD_DrawPoint	1
+../Drivers/BSP/LCD_ST7789/lcd.c:47:6:LCD_DrawLine	9
+../Drivers/BSP/LCD_ST7789/lcd.c:90:6:LCD_DrawRectangle	1
+../Drivers/BSP/LCD_ST7789/lcd.c:106:6:Draw_Circle	3
+../Drivers/BSP/LCD_ST7789/lcd.c:138:6:LCD_ShowChinese	6
+../Drivers/BSP/LCD_ST7789/lcd.c:162:6:LCD_ShowChinese12x12	11
+../Drivers/BSP/LCD_ST7789/lcd.c:220:6:LCD_ShowChinese16x16	11
+../Drivers/BSP/LCD_ST7789/lcd.c:278:6:LCD_ShowChinese24x24	11
+../Drivers/BSP/LCD_ST7789/lcd.c:335:6:LCD_ShowChinese32x32	11
+../Drivers/BSP/LCD_ST7789/lcd.c:393:6:LCD_ShowChar	12
+../Drivers/BSP/LCD_ST7789/lcd.c:448:6:LCD_ShowString	2
+../Drivers/BSP/LCD_ST7789/lcd.c:464:5:mypow	2
+../Drivers/BSP/LCD_ST7789/lcd.c:482:6:LCD_ShowIntNum	5
+../Drivers/BSP/LCD_ST7789/lcd.c:514:6:LCD_ShowFloatNum1	3
+../Drivers/BSP/LCD_ST7789/lcd.c:542:6:LCD_ShowPicture	3
